@@ -27,3 +27,8 @@ Nos facilita la vida al permitirnos:
 - Seguir ahondando en el uso de Jest y React Testing Library para realizar pruebas unitarias y de integración
 
 ## 🎁 Aprendizajes
+
+- Crear Custom Hooks en React
+- Desplegar una aplicación de React en Netlify
+- Realizar una petición a una API
+- Renderizar condicionalmente componentes de la app
