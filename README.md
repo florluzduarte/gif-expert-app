@@ -11,7 +11,7 @@ Nos facilita la vida al permitirnos:
 - Buscar Gifs de distintos temas
 - Almacenar las últimas búsquedas así podemos tenerlas a mano
 
-![gifExpertApp](https://res.cloudinary.com/dfzncn1pd/video/upload/q_auto:good/v1681226039/README%20files/gifExpertApp_ynipqq.gif)
+![gifExpertApp](https://res.cloudinary.com/dfzncn1pd/image/upload/v1681764082/README%20files/GifExpertApp_uc5m0c.jpg)
 
 ## 🔨 Tecnologías utilizadas
 
